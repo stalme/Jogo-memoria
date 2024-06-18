@@ -1,0 +1,9 @@
+imagens/aceleracao.png,Aceleração escalar média
+imagens/velocidade.png,Velocidade escalar média
+imagens/graficoS-MU.png,Gráfico de S no MU
+imagens/graficoS-MUV.png,Gráfico de S no MUV
+imagens/graficoV-MU.png,Gráfico de V no MU
+imagens/graficoV-MUV.png,Gráfico de V no MUV
+imagens/MU.png,MU
+imagens/MUV.png,MUV
+imagens/MCU.png,MCU 
