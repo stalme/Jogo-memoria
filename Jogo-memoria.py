@@ -1,4 +1,4 @@
-# Jogo da Memória - Imagem e texto
+# Jogo da Memória - Imagem e Texto
 # Autor: Sebastião Tadeu de Oliveira Almeida
 # Email: almeida_sto@ufrrj.br
 # version 1.0
@@ -222,7 +222,7 @@ def show_info_message():
 # Tela inicial com as regras
 def show_start_screen():
     screen.blit(background, (0, 0))  # Desenhar a imagem de fundo
-    title = large_font.render("Jogo da Memória - Física", True, black)
+    title = large_font.render("Jogo da Memória - Imagem e Texto", True, black)
     screen.blit(title, (screen_width // 2 - title.get_width() // 2, 100))
 
     rules = [
