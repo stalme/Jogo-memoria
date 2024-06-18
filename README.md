@@ -10,12 +10,14 @@ Este é um jogo da memória desenvolvido em Python usando a biblioteca Pygame. O
 4. Execute o jogo: `python jogo_da_memoria.py`
 
 ## Arquivos
-cards.txt
-O arquivo cards.txt contém as informações sobre as imagens e os nomes utilizados no jogo da memória. Cada linha do arquivo segue o formato:
+### cards.txt
+O arquivo **cards.txt** contém as informações sobre as imagens e os nomes utilizados no jogo da memória. Cada linha do arquivo segue o formato:
 caminho_da_imagem,nome_associado
+
 Por exemplo:
 imagens/velocidade.png,Velocidade
 imagens/aceleracao.png,Aceleração
+
 Essas informações são usadas para carregar as cartas do jogo, associando uma imagem a um texto correspondente.
 
 ## Licença
